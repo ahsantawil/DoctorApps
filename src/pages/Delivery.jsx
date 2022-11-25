@@ -2,7 +2,7 @@ import React from 'react';
 import Layout from './Layout';
 import Deliver from '../components/Delivery';
 
-const Dashboard = () => {
+const Delivery = () => {
   return (
     <Layout>
         <Deliver />
@@ -10,4 +10,4 @@ const Dashboard = () => {
   )
 }
 
-export default Dashboard;
+export default Delivery;

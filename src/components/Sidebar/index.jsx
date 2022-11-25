@@ -44,7 +44,7 @@ const Index = () => {
         </h6>
         <ul className="nav flex-column mb-2">
           <li className="nav-item">
-            <NavLink to={'/product'} className="nav-link">
+            <NavLink to={'/produk'} className="nav-link">
               <IoCartSharp className="align-text-bottom" />
                 Produk
             </NavLink>
